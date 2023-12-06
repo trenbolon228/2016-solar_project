@@ -36,7 +36,7 @@ def scale_x(x):
 
     Параметры:
 
-    **x** — x-координата модели.
+    **x** — x-коорфываывадината модели.
     """
 
     return int(x*scale_factor) + window_width//2
